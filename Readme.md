@@ -17,8 +17,8 @@ Before you begin, you need to install the following tools:
 To get started with Starknet-Scaffold, Clone this repo:
 
 ```
-git clone git@github.com:horuslabsio/Starknet-Scaffold.git
-cd Starknet-Scaffold
+git clone https://github.com/MingInc/0web-sampleDApp
+cd 0web-sampleDApp
 ```
 
 Or install using create-starknet-app (recommended).
